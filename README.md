@@ -1,7 +1,7 @@
 # Analyzing_American_Baby_Name_Trends
 
 In this project I used the below techniques: 
-* CASE WHEN statements, 
+* CASE WHEN statements 
 * pattern matching using the LIKE operator
 * subqueries
 * common table expressions
