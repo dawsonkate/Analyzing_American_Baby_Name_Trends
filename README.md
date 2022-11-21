@@ -2,9 +2,9 @@
 
 In this project, I used the following techniques: 
 * CASE WHEN statements 
-* pattern matching using the LIKE operator
-* subqueries
-* common table expressions
-* window functions and joins
-* selecting and filtering data
-* using aggregation functions etc.
+* Pattern matching using the LIKE operator
+* Subqueries
+* Common table expressions
+* Window functions and joins
+* Selecting and filtering data
+* Aggregation functions 
