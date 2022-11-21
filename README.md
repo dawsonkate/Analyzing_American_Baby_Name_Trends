@@ -6,5 +6,6 @@ In this project, I used the following techniques:
 * Subqueries
 * Common table expressions
 * Window functions and joins
-* Selecting and filtering data
+* Filtering grouped data 
+* Filtering rows where they meet a criterion 
 * Aggregation functions 
